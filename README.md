@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistikvsc&label=Profile%20views&color=0e75b6&style=flat" alt="mistikvsc" /> </p>
 
-- 🌱 I’m currently learning **👻**
+- 🌱 I’m currently learning **LUA**
 
 - 💬 Ask me about **Node.js (discordjs)**
 
