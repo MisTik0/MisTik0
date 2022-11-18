@@ -8,4 +8,4 @@
 
 - 📫 How to reach me **MisTik#9871**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisTik0&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisTik0&count_private=true&theme=radical)
