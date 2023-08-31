@@ -2,10 +2,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MisTik0&label=Profile%20views&color=0e75b6&style=flat" alt="MisTik0" /> </p>
 
-- 🌱 I’m currently learning **👻**
-
-- 💬 Ask me about **Node.js (discordjs)**
-
-- 📫 How to reach me **MisTik#9871**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisTik0&count_private=true&theme=radical)
